@@ -1,4 +1,4 @@
-# ☕ Java Core Solutions
+#  Java Core Solutions
 This repository is a dedicated technical portfolio for mastering **Core Java** logic and clean coding practices.
 
 ##  Project Overview
