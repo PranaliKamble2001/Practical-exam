@@ -31,5 +31,6 @@ public class Main {
         System.out.println("- Source Directory Structure (src/ created)");
         System.out.println("- Update: Successfully pushed logic to GitHub.");
         System.out.println("- Module: StringLogic (Palindrome) added.");
+        System.out.println("- Module [StringLogic]: Palindrome check is now LIVE.");
     }
 }
