@@ -29,5 +29,6 @@ public class Main {
         System.out.println("- Git Configuration (.gitignore included)");
         System.out.println("- Professional Documentation (README updated)");
         System.out.println("- Source Directory Structure (src/ created)");
+        System.out.println("- Update: Successfully pushed logic to GitHub.");
     }
 }
