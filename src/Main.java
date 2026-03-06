@@ -35,6 +35,7 @@ public class Main {
         System.out.println("- Package [ArrayPrograms]: Largest Element logic implemented."); 
         System.out.println("- Package [ArrayPrograms]: Modular folder structure verified.");
         System.out.println("- Package [ArrayPrograms]: Sum calculation logic verified.");
+        System.out.println("- Package [ArrayPrograms]: Min/Max and Average logic verified.");
         
         System.out.println("\n- Update: Successfully pushed logic to GitHub.");
         System.out.println("- Module: StringLogic (Palindrome) added.");
