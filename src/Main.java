@@ -34,6 +34,7 @@ public class Main {
         // Update this line to reflect your new folder structure
         System.out.println("- Package [ArrayPrograms]: Largest Element logic implemented."); 
         System.out.println("- Package [ArrayPrograms]: Modular folder structure verified.");
+        System.out.println("- Package [ArrayPrograms]: Sum calculation logic verified.");
         
         System.out.println("\n- Update: Successfully pushed logic to GitHub.");
         System.out.println("- Module: StringLogic (Palindrome) added.");
