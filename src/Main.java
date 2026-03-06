@@ -29,10 +29,16 @@ public class Main {
         System.out.println("- Git Configuration (.gitignore included)");
         System.out.println("- Professional Documentation (README updated)");
         System.out.println("- Source Directory Structure (src/ created)");
-        System.out.println("- Update: Successfully pushed logic to GitHub.");
+        
+        System.out.println("\n[Package Architecture Updates]:");
+        // Update this line to reflect your new folder structure
+        System.out.println("- Package [ArrayPrograms]: Largest Element logic implemented."); 
+        System.out.println("- Package [ArrayPrograms]: Modular folder structure verified.");
+        
+        System.out.println("\n- Update: Successfully pushed logic to GitHub.");
         System.out.println("- Module: StringLogic (Palindrome) added.");
-        System.out.println("- Module [StringLogic]: Palindrome check is now LIVE.");
         System.out.println("- Module [ArrayLogic]: Linear Search verified.");
         System.out.println("- Module [MathLogic]: Max/Min Finder active.");
+        
     }
 }
