@@ -28,6 +28,7 @@ public class Main {
         System.out.println("4. SmallestElement - Iterative Boundary Check");
         System.out.println("5. LinearSearch    - Target Element Localization");
         System.out.println("6. SumOfArray      - Arithmetic Accumulation");
+        System.out.println("7. ReverseArray    - Two-Pointer In-place Swap");
         
         System.out.println("\n--- Current Modules in [src/StringPrograms] ---");
         System.out.println("1. StringLogic     - Two-pointer Palindrome Check");
