@@ -1,0 +1,36 @@
+package StringPrograms
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+public class FirstUniqueChar {
+    public static char findFirstUnique(String input) {
+        input = input.toLowerCase();
+        // LinkedHashMap preserves the order in which characters were added
+        Map<Character, Integer> charCountMap = new LinkedHashMap<>();
+
+        // 1. Logic: Build the frequency map
+        for (char ch : input.toCharArray()) {
+            charCountMap.put(ch, charCountMap.getOrDefault(ch, 0) + 1);
+        }
+
+        // 2. Logic: Find the first key with a value of 1
+        for (Map.Entry<Character, Integer> entry : charCountMap.entrySet()) {
+            if (entry.getValue() == 1) {
+                return entry.getKey();
+            }
+        }
+
+        return '_'; // Return underscore if no unique char exists
+    }
+
+    public static void main(String[] args) {
+        String word = "stress";
+        char result = findFirstUnique(word);
+        
+        if (result != '_') {
+            System.out.println("The first non-repeated character in '" + word + "' is: " + result);
+        } else {
+            System.out.println("No unique character found.");
+        }
+    }
+}
