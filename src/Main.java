@@ -40,6 +40,11 @@ public class Main {
         System.out.println("5. LongestSubstring - Sliding Window Pattern");           
         System.out.println("6. StringCompress   - StringBuilder Optimization");
 
+
+        System.out.println("\n--- NEW: Modules in [src/MatrixPrograms] ---");
+        System.out.println("1. MatrixTranspose - Row-Column Flips (O(n*m))");
+        System.out.println("2. MatrixAddition  - Element-wise Grid Summation")
+
         System.out.println("\n[Next Step]: Commencing Day 4 - Advanced String Manipulation.");
         System.out.println("==========================================");
     }
