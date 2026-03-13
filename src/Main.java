@@ -43,7 +43,8 @@ public class Main {
 
         System.out.println("\n--- NEW: Modules in [src/MatrixPrograms] ---");
         System.out.println("1. MatrixTranspose - Row-Column Flips (O(n*m))");
-        System.out.println("2. MatrixAddition  - Element-wise Grid Summation")
+        System.out.println("2. MatrixAddition  - Element-wise Grid Summation");
+        System.out.println("3. MatrixSearch    - Target Localization in 2D Space");
 
         System.out.println("\n[Next Step]: Commencing Day 4 - Advanced String Manipulation.");
         System.out.println("==========================================");
