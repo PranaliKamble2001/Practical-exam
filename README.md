@@ -5,7 +5,7 @@ This repository is a dedicated technical portfolio for mastering **Core Java** l
 ##  Project Overview
 The entry point of this project is `src/Main.java`, which initializes the environment, tracks progress, and displays the logic challenge roadmap.
 
----
+------------------------------------------------------------------------------------------------
 
 ## 📂 Solutions Library
 
@@ -28,7 +28,12 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **RotateArray:** Optimal three-step reversal algorithm ($O(n)$ time, $O(1)$ space).
 * **MergeSortedArrays:** High-efficiency convergence of two sorted arrays using dual pointers.
 
----
+
+### 🔹 Matrix Programs (`src/MatrixPrograms/`)
+*Nested loop mastery and 2D data manipulation:*
+* **MatrixTranspose:** Logic to flip a matrix over its diagonal, converting rows to columns.
+* **MatrixAddition:** Element-wise summation of two 2D grids of equal dimensions.
+------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
 * **Collections Framework:** Expert use of `HashMap`, `LinkedHashMap`, `HashSet`, and `ArrayList`.
