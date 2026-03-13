@@ -30,10 +30,12 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 
 ### 🔹 Matrix Programs (`src/MatrixPrograms/`)
 *Nested loop mastery and 2D data manipulation:*
-* **MatrixTranspose:** Logic to flip a matrix over its diagonal, converting rows to columns.
-* **MatrixAddition:** Element-wise summation of two 2D grids of equal dimensions.
-* **MatrixSearch:** Linear search implementation for target localization in a 2D coordinate system.
-* **MatrixMultiplication:** Optimized triple-nested loop implementation ($O(n^3)$) requiring dot-product summation and dimension validation.
+* **MatrixTranspose:** Logic to flip a matrix over its diagonal.
+* **MatrixAddition:** Element-wise summation of two 2D grids.
+* **MatrixSearch:** Linear search implementation for 2D coordinate systems.
+* **MatrixMultiplication:** Optimized triple-nested loop implementation ($O(n^3)$).
+* **MatrixDiagonalSum:** Efficient single-pass extraction of the primary diagonal sum.
+  
 ------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
@@ -42,7 +44,7 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **Memory Management:** Strategic use of `StringBuilder` to handle String immutability.
 * **Pattern Mastery:** Implementation of Two-Pointers, Sliding Windows, and Frequency Mapping.
 
----
+------------------------------------------------------------------------------------------------
 
 ##  How to Run
 1.  **Clone** the repository.
