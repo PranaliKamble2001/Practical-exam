@@ -37,7 +37,9 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **MatrixDiagonalSum:** Efficient single-pass extraction of the primary diagonal sum.
 * **RowColumnSum:** Logic to calculate cumulative totals for each row and column.
 * **IdentityMatrix:** Procedural generation of a square matrix with 1s on the primary diagonal.
-* **ScalarMultiplication:** Implementation of scaling a 2D array by a constant factor through in-place modification.
+* **ScalarMultiplication:** Scaling a 2D array by a constant factor.
+* **UpperTriangle:** Logic to isolate and display elements where the column index is greater than or equal to the row index.
+
 ------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
