@@ -49,6 +49,7 @@ public class Main {
         System.out.println("5. MatrixDiagonalSum    - Single-loop Diagonal Accumulation");
         System.out.println("6. RowColumnSum         - Horizontal/Vertical Totals");
         System.out.println("7. IdentityMatrix       - Conditional Diagonal Generation (1s & 0s)");
+        System.out.println("8. ScalarMultiplication - Constant-based Element Scaling");
 
         
 
