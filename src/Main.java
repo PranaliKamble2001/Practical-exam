@@ -52,7 +52,8 @@ public class Main {
         System.out.println("8. ScalarMultiplication - Constant-based Element Scaling");
         System.out.println("4. UpperTriangle        - Filters elements above diagonal"); 
 
-        
+        System.out.println("\n--- NEW: Modules in [src/SortingPrograms] ---");
+        System.out.println("1. BubbleSort           - Adjacent Swap Optimization (O(n^2))");
 
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
         System.out.println("==========================================");
